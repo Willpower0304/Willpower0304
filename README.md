@@ -5,7 +5,7 @@
 
 - A passionate Self-taught Front-end developer and web-designer.
 - Currently learning Web Development in the University.
-- I’m currently open for an Intern or a new job opportunity. Contact Me if you Wish.
+- I’m currently open for an Intern or a new job opportunity, Contact Me if you Wish.
 
 <br>
 
