@@ -4,7 +4,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer and web-designer.
-- UX / UI desiner.
+- UX / UI designer.
 - Self-taught Back-End to, but a just now the basics for now.
 - Currently learning Web Development in the University of Panamá.
 - I’m currently open for an Intern or a new job opportunity, Contact Me if you Wish.
